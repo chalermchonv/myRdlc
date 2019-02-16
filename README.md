@@ -1,0 +1,2 @@
+# myRdlc
+wpf rdlc
